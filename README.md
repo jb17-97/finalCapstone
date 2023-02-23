@@ -24,10 +24,12 @@ then click download ZIP and the folder will be downloaded in your File Explorer
 1: once the project is downloaded, go to your IDE, click file -> open -> search for the folder you have just downloaded ->
 ![image](https://user-images.githubusercontent.com/93325861/220871037-03eb7477-1a18-4574-9125-c1e42b9c2e62.png)
 ![image](https://user-images.githubusercontent.com/93325861/220871272-7cb58dae-c9bc-42ce-ade0-6af0023741df.png)
+
 2: once you are in, if you would like to see what the program does, click the green play button at the top-right, see the screenshot below and the output when pressed
 ![image](https://user-images.githubusercontent.com/93325861/220871804-2c9400d6-a937-440a-aa49-37559848d1aa.png)
 ![image](https://user-images.githubusercontent.com/93325861/220872250-50f00e60-341a-44b7-97bb-22e2a6c1c85d.png)
 then you can follow the instructions to see what each option does
+
 3: The program works as expected, but if you'd to edit an specific funtion go ahead, however how would recommend you to save a copy.
 
 **Credits**
