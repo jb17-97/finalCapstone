@@ -6,13 +6,21 @@
 **table contents**
 
   Class shoe will be the blueprint of the project
+  
   read_shoes_data() will read data from the text file inventory.txt
+  
   capture_data() will allow the user to add new shoes to the text file and list named shoe_list
+  
   view_all() will output all the shoes
+  
   re_stock() will ask the user if they want to update the number of the shoes with the lowest quantity
+  
   search_shoe() will allow the user to search for a specific shoe by entering the shoe code
+  
   value_per_item() it will calculate the total by multiplying the price and quantity
+  
   highest_qty() will output the shoe with the highest quantity
+  
   The variable menu will make all this functions work when they are called
   
 **Installation**  
@@ -31,6 +39,7 @@ then click download ZIP and the folder will be downloaded in your File Explorer
 ![image](https://user-images.githubusercontent.com/93325861/220871272-7cb58dae-c9bc-42ce-ade0-6af0023741df.png)
 
 2: once you are in, if you would like to see what the program does, click the green play button at the top-right, see the screenshot below and the output when pressed
+
 ![image](https://user-images.githubusercontent.com/93325861/220871804-2c9400d6-a937-440a-aa49-37559848d1aa.png)
 ![image](https://user-images.githubusercontent.com/93325861/220872250-50f00e60-341a-44b7-97bb-22e2a6c1c85d.png)
 
